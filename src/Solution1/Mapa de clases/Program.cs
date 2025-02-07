@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Wilker Jose capellan Coronado 
+//2024-0217
+using System;
 
 namespace ComunidadEducativa
 {
